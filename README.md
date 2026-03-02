@@ -27,3 +27,8 @@ By doing so, Skill2Salary enables students to study based on user skills in term
 outcomes, allowing them to make informed decisions and focus on popular technologies prior to 
 effectively planning their careers. Moreover, the solution is free of charge, which makes it accessible to 
 all students regardless of their background.
+
+teamates 
+https://github.com/sahana-hs
+
+https://share.google/vHDJvdyYyvO5xALZ9
